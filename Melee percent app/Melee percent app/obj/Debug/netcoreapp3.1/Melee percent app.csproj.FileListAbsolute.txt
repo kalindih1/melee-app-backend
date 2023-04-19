@@ -1,0 +1,156 @@
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.exe
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.deps.json
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.runtimeconfig.json
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.runtimeconfig.dev.json
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.pdb
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.Views.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.Views.pdb
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.csproj.AssemblyReference.cache
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.AssemblyInfoInputs.cache
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.AssemblyInfo.cs
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.csproj.CoreCompileInputs.cache
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.RazorAssemblyInfo.cache
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.RazorAssemblyInfo.cs
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\staticwebassets\Melee percent app.StaticWebAssets.Manifest.cache
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\staticwebassets\Melee percent app.StaticWebAssets.xml
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\scopedcss\bundle\Melee percent app.styles.css
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.TagHelpers.input.cache
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.TagHelpers.output.cache
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.RazorCoreGenerate.cache
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.RazorTargetAssemblyInfo.cache
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.RazorTargetAssemblyInfo.cs
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.Views.pdb
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.csproj.CopyComplete
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.dll
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.pdb
+C:\Users\kalin\source\repos\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.genruntimeconfig.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.exe
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.deps.json
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.runtimeconfig.json
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.runtimeconfig.dev.json
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.pdb
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.Views.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Melee percent app.Views.pdb
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.csproj.AssemblyReference.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.AssemblyInfoInputs.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.AssemblyInfo.cs
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.csproj.CoreCompileInputs.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.RazorAssemblyInfo.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.RazorAssemblyInfo.cs
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\staticwebassets\Melee percent app.StaticWebAssets.Manifest.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\staticwebassets\Melee percent app.StaticWebAssets.xml
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\scopedcss\bundle\Melee percent app.styles.css
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.TagHelpers.input.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.TagHelpers.output.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.RazorCoreGenerate.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.RazorTargetAssemblyInfo.cache
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.RazorTargetAssemblyInfo.cs
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.Views.pdb
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.csproj.CopyComplete
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.dll
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.pdb
+C:\Users\kalin\Desktop\melee % app\backend\Melee percent app\Melee percent app\obj\Debug\netcoreapp3.1\Melee percent app.genruntimeconfig.cache

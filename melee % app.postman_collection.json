@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "188f91ac-d4f1-48a9-94fd-df93bd8d0dcb",
+		"name": "melee % app",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19429215"
+	},
+	"item": [
+		{
+			"name": "https://localhost:44369/Home/GetKillPercent?MeleeCharacter=Peach&MeleeStage=Battlefield",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "MeleeCharacter",
+						"value": "Fox",
+						"type": "text"
+					},
+					{
+						"key": "MeleeStage",
+						"value": "Battlefield",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:44369/Home/GetKillPercent?MeleeCharacter=Peach&MeleeStage=Battlefield",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44369",
+					"path": [
+						"Home",
+						"GetKillPercent"
+					],
+					"query": [
+						{
+							"key": "MeleeCharacter",
+							"value": "Peach"
+						},
+						{
+							"key": "MeleeStage",
+							"value": "Battlefield"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
